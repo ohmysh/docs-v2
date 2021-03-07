@@ -1,0 +1,12 @@
+- 安装
+  - [安装说明](/zh_cn/getting-started/install)
+  - [准备使用](/zh_cn/getting-started/ready)
+- 使用 OhMySh
+  - [主题](/zh_cn/using/theme)
+  - [插件](/zh_cn/using/plugin)
+  - [快捷方式](/zh_cn/using/alias)
+  - [命令行工具](/zh_cn/using/cli)
+- [常见问题 FAQ](/zh_cn/other/faq.md)
+- [卸载说明](/zh_cn/other/uninstall)
+- [版权说明](/zh_cn/other/license)
+- [参与开发](/zh_cn/other/cont)

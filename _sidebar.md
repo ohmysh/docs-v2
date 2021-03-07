@@ -1,0 +1,12 @@
+- Getting Started
+  - [Installation Guide](/getting-started/install)
+  - [Getting Ready To Use](/getting-started/ready)
+- Using OhMySh
+  - [Themes](/using/theme)
+  - [Plugins](/using/plugin)
+  - [Aliases](/using/alias)
+  - [Command Line Interface](using/cli)
+- [FAQ](/other/faq.md)
+- [Uninstalling](/other/uninstall)
+- [License](/other/license)
+- [Contributors](/other/cont)
