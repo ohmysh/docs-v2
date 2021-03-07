@@ -3,6 +3,8 @@
 ## Installation Errors
 
 - **Error code `1`** : OMS cannot found some application for run OMS, you can read "Prepare" to fix
+- **Error code `2`** : You had installed OMS
+- **Error code `3`** : Cannot reach to GitHub Repo ohmysh/ohmysh, checking internet
 
 ## Using Errors
 
