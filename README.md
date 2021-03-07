@@ -1,4 +1,4 @@
-# OhMySH Docs
+# OhMySH Opened Documents
 
 ![OMS logo](https://516wjy.xyz:516/OhMySh-width.png)
 
