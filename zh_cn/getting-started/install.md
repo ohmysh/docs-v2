@@ -8,7 +8,7 @@
 
 OhMySh 基于 [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_shell) 或 GNU-Bash 工作。
 
-所以确保你已经安装了 `sh (>=4.x.x) | bash` 。还有些其他依赖: `curl` `git` .
+所以确保你已经安装了 `sh (>=4.x.x)` 和 `bash (>=4.x.x)` 。还有些其他依赖: `curl` `git` .
 
 ## 安装
 
@@ -16,7 +16,7 @@ OhMySh 基于 [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_she
 
 ```sh
 curl https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh
-sh OMSInstaller.sh
+bash OMSInstaller.sh
 ```
 
 > ### 中国用户提示
@@ -30,13 +30,8 @@ sh OMSInstaller.sh
 Run the following script with **any** shell.
 
 ```sh
-sh --login
+bash --login
 ```
-
-> ### 运行 SH 时的 `--login` 选项
->
-> 如果你希望使用 SH 运行 OMS，你需要添加 `--login` 选项，这样就会自动运行 OMS 了。
->
 
 ## 高级选项
 
