@@ -6,17 +6,17 @@ If you have any question, open a new issue in [(ohmysh/ohmysh) repository](https
 
 ## Preparation
 
-OhMySh works with [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_shell) or GNU-Bash.
+OhMySh works with [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_shell) and GNU-Bash.
 
-So make sure `sh (>=4.x.x)` was installed. There are some other dependences: `curl` `git` .
+So make sure `sh (>=4.x.x)` and `bash (>=4.x.x)` was installed. There are some other dependences: `curl` `git` .
 
 ## Installation
 
-Run the following commands with SH.
+Run the following commands with shell.
 
-```sh
+```bash
 curl https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh
-sh OMSInstaller.sh
+bash OMSInstaller.sh
 ```
 
 > ### For Chinese users
@@ -30,19 +30,14 @@ sh OMSInstaller.sh
 Run the following script with **any** shell.
 
 ```sh
-sh --login
+bash
 ```
-
-> ### Running SH with `--login` option
->
-> If you run SH with the `--login` option, SH will run OMS automatically.
->
 
 ## Advanced Options
 
 ### Getting Installer
 
-Run the following commands with SH.
+Run the following commands with shell.
 
 ```sh
 curl https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh
