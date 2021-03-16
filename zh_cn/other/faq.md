@@ -1,5 +1,9 @@
 # OhMySh FAQ
 
+[到这个页面获取最新的 FAQ](https://ohmysh.github.io/docs-v2/#/other/faq)
+
+<!--
+
 ## Installation Errors
 
 - **Error code `1`** : OMS cannot found some application for run OMS, you can read "Prepare" to fix
@@ -35,3 +39,5 @@
 > ### For Zsh
 > 
 > Ohmysh cannot run on zsh because of the color or prompt format of sh/bash is different to zsh.
+
+-->
