@@ -1,22 +1,22 @@
-# Plugins
+# 插件
 
-## Getting Plugins
+## 获取插件
 
-All the plugins of OMS are installed at `$OMS_DIR/usr/plugin` folder. Run the following command to get a list of them.
+所有的官方那个插件都安装到 `$OMS_DIR/usr/plugin` 目录了，你可以通过下面的命令获取他们。
 
 ```sh
 oms --pluginlist
 ```
 
-You can also make a customized plugin by yourself. Read [This page](https://github.com/ohmysh/ohmysh/blob/main/usr/plugin/readme.md).
+你也可以定制自己的插件，参考[这篇文章](https://github.com/ohmysh/ohmysh/blob/main/usr/plugin/readme.md).
 
-## Running Plugins
+## 使用插件
 
-Run the following command:
+运行下面的命令
 
 ```sh
-oms -p TYPE PLUGIN-NAME
+oms -p <类型> <插件名>
 ```
 
-- `TYPE` : There are 3 options, `enable` (Enable a plugin), `disable` (Disable a plugin), `restart` (Restart a **ENABLED** plugin).
-- `PLaUGIN-NAME` : The plugin name you want.
+- `类型` : There are 3 options, `enable` (Enable a plugin), `disable` (Disable a plugin), `restart` (Restart a **ENABLED** plugin).
+- `插件名` : The plugin name you want.
