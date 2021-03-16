@@ -1,6 +1,6 @@
-# License
+# 版权信息
 
-OhMySh is under MIT-License.
+OhMySh 所使用的版权模版是 MIT-License 你需要遵守以下规定.
 
 ```
 MIT License
