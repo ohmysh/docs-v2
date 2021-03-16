@@ -1,3 +1,3 @@
-## Aliases
+## 快捷方式
 
-If you want to modify the aliases settings, run `oms --alias` (and edit it with `vi`) or `oms --alias EDITOR` (edit it with the custom `EDITOR`)
+如果你需要添加快捷方式，运行 `oms --alias` (将会用 `vi` 编辑) 或者运行 `oms --alias EDITOR` (用自定的 `EDITOR` 编辑)
