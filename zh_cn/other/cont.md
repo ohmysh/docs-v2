@@ -1,8 +1,8 @@
-# Contributors
+# 参与开发
 
-OhMySh is not the best. We need your help. Contact us by the following ways:
+OhMySh 不是一个完美的项目，非常欢迎您来帮助我们！
 
-- Email `wjy@516wjy.xyz`
-- Pull requests GitHub Repo `ohmysh/ohmysh`
+- 邮箱 `wjy@516wjy.xyz`
+- Pull requests GitHub 仓库 `ohmysh/ohmysh`
 
-Thanks!
+感谢！
