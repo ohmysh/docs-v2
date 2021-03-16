@@ -1,5 +1,5 @@
 # OhMySh Command Line Interface (CLI)
 
-OhMySh Command Line Interface (CLI) is a command line tool for OhMySh. You can use it to change the theme, run plugins and do more things!
+OhMySh Command Line Interface (CLI) 是一个 OhMySh 提供的工具. 你可以用它更换主题、启用插件或其他操作!
 
-See `ohmysh --help` or `oms --help` .
+运行 `ohmysh --help` 或者 `oms --help` 获取帮助。
