@@ -6,6 +6,8 @@
   - [Plugins](/using/plugin)
   - [Aliases](/using/alias)
   - [Command Line Interface](using/cli)
+- Advanced Usage
+  - [Cache](/using/cache)
 - [FAQ](/other/faq.md)
 - [Uninstalling](/other/uninstall)
 - [License](/other/license)
