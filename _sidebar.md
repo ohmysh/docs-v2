@@ -7,7 +7,7 @@
   - [Aliases](/using/alias)
   - [Command Line Interface](using/cli)
 - Advanced Usage
-  - [Cache](/using/cache)
+  - [Cache Directory](/using/cache)
 - [FAQ](/other/faq.md)
 - [Uninstalling](/other/uninstall)
 - [License](/other/license)
