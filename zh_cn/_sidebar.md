@@ -6,6 +6,8 @@
   - [插件](/zh_cn/using/plugin)
   - [快捷方式](/zh_cn/using/alias)
   - [命令行工具](/zh_cn/using/cli)
+- 高级用法
+  - [缓存目录](/zh_cn/using/cache)
 - [常见问题 FAQ](/zh_cn/other/faq.md)
 - [卸载说明](/zh_cn/other/uninstall)
 - [版权说明](/zh_cn/other/license)
