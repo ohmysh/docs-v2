@@ -20,23 +20,23 @@ cd $OMS_CACHE
 YYYY/MM/DD
 ```
 
-It is the last update to date. If you want to update your OhMySh now, you can try this command `oms --update` .
+这个日期是最后一次更新的日期。如果你希望立即更新 OhMySh，你可以运行这个命令 `oms --update` .
 
-## `runtime-script` Directory
+## `runtime-script` 目录
 
-This directory holds the OMS runtime file. The files in this directory are always created by plugins or OhMySh library scripts.
+这个目录保存着 OhMySh 一次性的脚本，这些脚本只会被运行一次，它们通常是由“插件”或“OhMySh 库函数”创建的。
 
-> ### Warning
+> ### 注意
 > 
-> The file in this directory will be **cleaned** when OhMySh is running again!!!
+> 这个目录里的文件将会在运行之后被**删除**，请谨慎使用！！！
 > 
 
-## `startup-script` Directory
+## `startup-script` 目录
 
-This directory holds the OMS startup scripts. When OMS start running, the files in this directory will run automatically.
+这个目录保存着 OhMySh 启动时自动运行脚本，它们在每次运行 OhMySh 时被运行。
 
-It is diffirence from `runtime-script`, the files in here will **not** delete. You can put your files into this directory and named with `SCRIPT-NAME.sh`.
+它和 `runtime-script` 不同，这里的文件**不会**被删除，你可以把你希望运行的脚本程序命名为 `脚本名.sh` 并放入这个目录。
 
-## `alias.ohmysh.sh` File
+## `alias.ohmysh.sh` 文件
 
-This file holds the aliases of your shell. See in [Aliases](https://ohmysh.github.io/docs-v2/#/using/alias).
+这个文件保存着所有的快捷方式，详见[快捷方式 (Aliases)](https://ohmysh.github.io/docs-v2/#/using/alias).
