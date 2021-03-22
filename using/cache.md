@@ -39,4 +39,5 @@ It is diffirence from `runtime-script`, the files in here will **not** delete. Y
 
 ## `alias.ohmysh.sh` File
 
-This file holds the aliases of your shell.
+This file holds the aliases of your shell. See in [Aliases](https://ohmysh.github.io/docs-v2/#/using/alias).
+
