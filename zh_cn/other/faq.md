@@ -1,8 +1,7 @@
+<!--
 # OhMySh FAQ
 
 [到这个页面获取最新的 FAQ](https://ohmysh.github.io/docs-v2/#/other/faq)
-
-<!--
 
 ## Installation Errors
 
@@ -41,3 +40,61 @@
 > Ohmysh cannot run on zsh because of the color or prompt format of sh/bash is different to zsh.
 
 -->
+
+# OhMySh FAQ
+
+## 安装错误
+
+- **Error code `1`** : OhMySh 安装器找不到某些需要的软件，请阅读[安装说明->准备](https://ohmysh.github.io/docs-v2/#/zh_cn/getting-started/install?id=%e5%87%86%e5%a4%87)部分
+- **Error code `2`** : 你已经安装了 OhMySh，或你选择的安装路径已存在
+- **Error code `3`** : 无法连接到 GitHub 官方仓库 (ohmysh/ohmysh) 请检查网络连接
+
+## 使用错误
+
+- **Error 1** : 运行 `ohmysh --themelist` 检查你所输入的名称是否存在
+- **Error 2** : 运行 `ohmysh --pluginlist` 检查你所输入的名称是否存在
+
+
+
+- **无法运行 OMS** : 添加 `--config` 参数运行安装程序，例如 `sh OMSInstaller.sh --config`
+- **无法应用自己的主题/插件** : 检查你自己的主题/插件名称是否与官方仓库 `$OMS_DIR/usr/theme/` 或 `$OMS_DIR/usr/plugin/` 目录下名称重复
+
+## OhMySh 命令行界面 (Command Line Interface)
+
+- **ERROR 1** : 运行 `ohmysh --help`
+- **ERROR 2** : 运行 `ohmysh --help` 检查你的参数是否正确
+
+
+
+- **Cannot found CLI** : 重新安装 OhMySh 以解决问题
+
+## 中国网络问题
+
+在中国大陆特定网络环境下是无法（快速）连接到 GitHub 官方仓库，这个问题我们暂时无法解决，目前我们尽可以帮助受限制用户绕开这个连接方式，使用其他 CDN 代替，无法根本性解决问题，操作办法见下面部分。
+
+### 获取安装程序错误
+
+你可以把获取安装程序方法改为：
+
+```bash
+curl https://ghproxy.com/https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh
+```
+
+### 获取仓库
+
+你可以把安装程序执行方法改成:
+
+```bash
+REPO=https://ghproxy.com/https://github.com/ohmysh/ohmysh.git bash OMSInstaller.sh
+```
+
+## 已知问题
+
+> 我们将尽快修复
+
+- Zsh 问题, 请查看 _已知问题 -> 关于 zsh_ 部分.
+
+### 关于 zsh
+
+- OhMySh 所支持的格式与 zsh 某些格式不符，暂时无法使用。
+
