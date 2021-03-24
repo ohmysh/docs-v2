@@ -9,6 +9,7 @@
 - Advanced Usage
   - [Cache Directory](/using/cache)
 - [FAQ](/other/faq.md)
+- [Change Log](/other/changelog)
 - [Uninstalling](/other/uninstall)
 - [License](/other/license)
 - [Contributors](/other/cont)
