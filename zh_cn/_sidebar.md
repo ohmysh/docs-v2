@@ -8,7 +8,8 @@
   - [命令行工具](/zh_cn/using/cli)
 - 高级用法
   - [缓存目录](/zh_cn/using/cache)
-- [常见问题 FAQ](/zh_cn/other/faq.md)
+- [常见问题 FAQ](/zh_cn/other/faq)
+- [更新日志](/zh_cn/other/changelog)
 - [卸载说明](/zh_cn/other/uninstall)
 - [版权说明](/zh_cn/other/license)
 - [参与开发](/zh_cn/other/cont)
