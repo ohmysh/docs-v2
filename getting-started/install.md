@@ -12,18 +12,19 @@ So make sure `sh (>=4.x.x)` and `bash (>=4.x.x)` was installed. There are some o
 
 ## Installation
 
-Run the following commands with shell.
+Run the following commands with shell. (Not support Chinese internet)
 
 ```bash
 curl https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh
 bash OMSInstaller.sh
 ```
 
-> ### For Chinese users
->
-> Get the installer from this: 
->
-> `curl https://ghproxy.com/https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh`
+Or if you are in China, you may need get installer from Chinese mirror with this commands:
+
+```bash
+curl https://gitee.com/ohmysh/ohmysh-mirror/raw/main/install.sh > OMSInstaller.sh
+bash OMSInstaller.ah
+```
 
 ## Checking the Installation
 
