@@ -12,18 +12,19 @@ OhMySh 基于 [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_she
 
 ## 安装
 
-在命令行中运行以下命令来快速安装。
+在命令行中运行以下命令来快速安装（这条命令可能不使用于中国，中国网络请使用下面的命令）
 
-```sh
+```bash
 curl https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh
 bash OMSInstaller.sh
 ```
 
-> ### 中国用户提示
->
-> 你可以把上面那段内容的第一行替换为：
->
-> `curl https://ghproxy.com/https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh`
+或者如果你在中国，你可以使用这条命令来访问中国区镜像来获取安装程序。
+
+```bash
+curl https://gitee.com/ohmysh/ohmysh-mirror/raw/main/install.sh > OMSInstaller.sh
+bash OMSInstaller.ah
+```
 
 ## 检查安装
 
