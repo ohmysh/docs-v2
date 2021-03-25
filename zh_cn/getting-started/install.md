@@ -28,10 +28,10 @@ bash OMSInstaller.ah
 
 ## 检查安装
 
-Run the following script with **any** shell.
+在终端中运行这个命令来检查是否安装是否成功
 
-```sh
-bash --login
+```bash
+bash
 ```
 
 ## 高级选项
