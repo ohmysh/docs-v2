@@ -1,6 +1,6 @@
 # OhMySH Opened Documents
 
-![OMS logo](https://516wjy.xyz:516/OhMySh-docs)
+![OMS logo](https://516wjy.xyz:516/OhMySh-docs.png)
 
 **The SH Shell Framework**
 
