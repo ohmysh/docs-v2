@@ -6,6 +6,8 @@
 
 ## 准备
 
+请先[系统页面](/zh_cn/getting-started/system)检查系统要求。
+
 OhMySh 基于 [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_shell) 或 GNU-Bash 工作。
 
 所以确保你已经安装了 `sh (>=4.x.x)` 和 `bash (>=4.x.x)` 。还有些其他依赖: `curl` `git` .
