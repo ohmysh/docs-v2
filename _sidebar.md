@@ -1,4 +1,5 @@
 - Getting Started
+  - [System Requirement](/getting-started/system)
   - [Installation Guide](/getting-started/install)
   - [Getting Ready To Use](/getting-started/ready)
 - Using OhMySh
