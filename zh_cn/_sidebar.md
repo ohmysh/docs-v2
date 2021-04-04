@@ -1,4 +1,5 @@
 - 安装
+  - [系统要求](/zh_cn/getting-started/system)
   - [安装说明](/zh_cn/getting-started/install)
   - [准备使用](/zh_cn/getting-started/ready)
 - 使用 OhMySh
