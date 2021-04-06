@@ -70,14 +70,15 @@
 
 ## 中国网络问题
 
-在中国大陆特定网络环境下是无法（快速）连接到 GitHub 官方仓库，这个问题我们暂时无法解决，目前我们尽可以帮助受限制用户绕开这个连接方式，使用其他 CDN 代替，无法根本性解决问题，操作办法见下面部分。
+在中国大陆特定网络环境下是无法（快速）连接到 GitHub 官方仓库，这个问题我们暂时无法解决，目前我们可以帮助受限制用户通过中国区镜像站快速访问，操作办法见下面部分。
 
 ### 获取安装程序错误
 
 你可以把获取安装程序方法改为：
 
 ```bash
-curl https://ghproxy.com/https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstaller.sh
+curl https://gitee.com/ohmysh/ohmysh-mirror/raw/main/install.sh > OMSInstaller.sh
+bash OMSInstaller.ah
 ```
 
 ### 获取仓库
@@ -85,7 +86,7 @@ curl https://ghproxy.com/https://raw.githubusercontent.com/ohmysh/ohmysh/main/in
 你可以把安装程序执行方法改成:
 
 ```bash
-REPO=https://ghproxy.com/https://github.com/ohmysh/ohmysh.git bash OMSInstaller.sh
+REPO=https://gitee.com/ohmysh/ohmysh.git bash OMSInstaller.sh
 ```
 
 ## 已知问题
