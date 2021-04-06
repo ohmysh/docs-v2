@@ -21,12 +21,17 @@ curl https://raw.githubusercontent.com/ohmysh/ohmysh/main/install.sh > OMSInstal
 bash OMSInstaller.sh
 ```
 
+
+或者如果你在中国，你可以[在FAQ的中国网络部分](https://ohmysh.github.io/docs-v2/#/zh_cn/other/faq?id=%e4%b8%ad%e5%9b%bd%e7%bd%91%e7%bb%9c%e9%97%ae%e9%a2%98)获得解决方案。
+
+<!--
 或者如果你在中国，你可以使用这条命令来访问中国区镜像来获取安装程序。
 
 ```bash
 curl https://gitee.com/ohmysh/ohmysh-mirror/raw/main/install.sh > OMSInstaller.sh
 bash OMSInstaller.ah
 ```
+-->
 
 ## 检查安装
 
