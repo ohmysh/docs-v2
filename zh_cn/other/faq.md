@@ -93,7 +93,8 @@ REPO=https://gitee.com/ohmysh/ohmysh.git bash OMSInstaller.sh
 
 > 我们将尽快修复
 
-- Zsh 问题, 请查看 _已知问题 -> 关于 zsh_ 部分.
+- Zsh 问题, 请查看 _已知问题 -> 关于 zsh_ 部分。
+- 中国网络问题请查看 _FAQ -> 中国网络问题_ 部分。
 
 ### 关于 zsh
 
