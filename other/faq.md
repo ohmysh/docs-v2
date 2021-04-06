@@ -33,6 +33,7 @@
 > We will solve them quickly.
 
 - Zsh bug, please see in _Known Problems -> For Zsh_ part.
+- Chinese Internet errors, please see in _FAQ -> Chinese Internet_ part.
 
 > ### For Zsh
 > 
