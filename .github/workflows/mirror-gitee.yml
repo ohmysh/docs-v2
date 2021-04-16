@@ -7,13 +7,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sync to Gitee
-        uses: wearerequired/git-mirror-action@master
-        env:
-          SSH_PRIVATE_KEY: ${{ secrets.GITEE_RSA_PRIVATE_KEY }}
+      - uses: spyoungtech/mirror-action@master
         with:
-          source-repo: git@github.com:ohmysh/docs-v2.git
-          # 注意替换为你的 Gitee 目标仓库地址
-          destination-repo: git@gitee.com:ohmysh/docs-v2.git
+          REMOTE: 'https://gitee.com/ohmysh/docs-v2.git'
+          GIT_USERNAME: wujiayi516wjy
+          GIT_PASSWORD: ${{ secrets.GITEE_PASSWORD }}
 
       - name: Build Gitee Pages
         uses: yanglbme/gitee-pages-action@main
