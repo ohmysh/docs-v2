@@ -8,7 +8,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Sync to Gitee
-      - uses: spyoungtech/mirror-action@master
+        uses: spyoungtech/mirror-action@master
         with:
           REMOTE: 'https://gitee.com/ohmysh/docs-v2.git'
           GIT_USERNAME: wujiayi516wjy
