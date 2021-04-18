@@ -8,6 +8,8 @@
 oms --pluginlist
 ```
 
+如果你希望查看插件的说明或使用方法，可以在[这个目录](https://github.com/ohmysh/ohmysh/tree/main/usr/plugin)里查看子目录的“先读我”文件。
+
 你也可以定制自己的插件，参考[这篇文章](https://github.com/ohmysh/ohmysh/blob/main/usr/plugin/readme.md).
 
 ## 使用插件
