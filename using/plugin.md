@@ -8,6 +8,8 @@ All the plugins of OMS are installed at `$OMS_DIR/usr/plugin` folder. Run the fo
 oms --pluginlist
 ```
 
+If you want to check the plugins' introductions or it's usages, you can read "ReadMe" files in [this folder](https://github.com/ohmysh/ohmysh/tree/main/usr/plugin).
+
 You can also make a customized plugin by yourself. Read [This page](https://github.com/ohmysh/ohmysh/blob/main/usr/plugin/readme.md).
 
 ## Running Plugins
