@@ -2,9 +2,16 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## OhMySH mirror script
+
+> Updated in April 18, 2021
+
+- Updated mirror script
+  - Included module "Build Pages".
+
 ## `0.0.3-pre_10`
 
-> Update in 2021/03/27
+> Updated in 2021/03/27
 
 - Added feature `Special Date Remind` : `lib/opt/special-date.sh`
 - Added feature `Command Redirect` : `lib/opt/map.sh`
