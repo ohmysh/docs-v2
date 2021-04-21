@@ -86,8 +86,22 @@ bash OMSInstaller.ah
 你可以把安装程序执行方法改成:
 
 ```bash
-REPO=https://gitee.com/ohmysh/ohmysh.git bash OMSInstaller.sh
+REPO=https://gitee.com/ohmysh/ohmysh-mirror.git bash OMSInstaller.sh
 ```
+
+### 仓库任意文件访问
+
+在官方仓库里所有文件均可以通过 Gitee Web 网页端进行访问（不能修改），可以通过[此链接](https://gitee.com/ohmysh/ohmysh-mirror)来访问。
+
+也可以通过 API 进行访问，具体方式见下：
+
+```bash
+curl https://gitee.com/ohmysh/ohmysh-mirror/raw/main/PATH/TO/FILE.TYPE
+```
+
+### 修改文件
+
+在 Gitee 镜像仓库提交拉取请求是不会被通过的，你需要登录 GitHub 官方仓库进行提交。
 
 ## 已知问题
 
