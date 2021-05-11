@@ -2,6 +2,15 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## `0.0.4-build_11`
+
+> Updated in May 11, 2021.
+
+- Updated ReadMe file
+- Included Installer update: `install.sh` :
+  - Add feature `Change REPO`.
+- Updated Error code `3,4,5` : `main.sh`.
+
 ## OhMySH mirror script
 
 > Updated in April 18, 2021
