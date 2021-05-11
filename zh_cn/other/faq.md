@@ -51,22 +51,24 @@
 
 ## 使用错误
 
-- **Error 1** : 运行 `ohmysh --themelist` 检查你所输入的名称是否存在
-- **Error 2** : 运行 `ohmysh --pluginlist` 检查你所输入的名称是否存在
+- **ERROR 1** : 运行 `ohmysh --help`
+- **ERROR 2** : 运行 `ohmysh --help` 检查你的参数是否正确
+- **ERROR 3** : 添加 `--config` 参数运行安装程序，例如 `sh OMSInstaller.sh --config`
+- **ERROR 4** : 运行 `ohmysh --themelist` 检查你所输入的名称是否存在
+- **ERROR 5** : 运行 `ohmysh --pluginlist` 检查你所输入的名称是否存在
 
 
 
 - **无法运行 OMS** : 添加 `--config` 参数运行安装程序，例如 `sh OMSInstaller.sh --config`
 - **无法应用自己的主题/插件** : 检查你自己的主题/插件名称是否与官方仓库 `$OMS_DIR/usr/theme/` 或 `$OMS_DIR/usr/plugin/` 目录下名称重复
+- **Cannot found CLI** : 重新安装 OhMySh 以解决问题
 
 ## OhMySh 命令行界面 (Command Line Interface)
 
-- **ERROR 1** : 运行 `ohmysh --help`
-- **ERROR 2** : 运行 `ohmysh --help` 检查你的参数是否正确
 
 
 
-- **Cannot found CLI** : 重新安装 OhMySh 以解决问题
+
 
 ## 中国网络问题
 
