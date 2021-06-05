@@ -22,6 +22,16 @@ YYYY/MM/DD
 
 It is the last update to date. If you want to update your OhMySh now, you can try this command `oms --update` .
 
+## `update-lastdate` File
+
+Last updated date, its format is same to update file.
+
+## `update-lastver` File
+
+Last updated versions.
+
+Likes: `x.x.x-build_x` .
+
 ## `runtime-script` Directory
 
 This directory holds the OMS runtime file. The files in this directory are always created by plugins or OhMySh library scripts.
