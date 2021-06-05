@@ -22,6 +22,16 @@ YYYY/MM/DD
 
 这个日期是最后一次更新的日期。如果你希望立即更新 OhMySh，你可以运行这个命令 `oms --update` .
 
+## `update-lastdate` 文件
+
+存放着上次更新的日期，格式同 update 文件。
+
+## `update-lastver` 文件
+
+上次更新的版本。
+
+格式如: `x.x.x-build_x` .
+
 ## `runtime-script` 目录
 
 这个目录保存着 OhMySh 一次性的脚本，这些脚本只会被运行一次，它们通常是由“插件”或“OhMySh 库函数”创建的。
