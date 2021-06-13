@@ -6,6 +6,7 @@
   - [主题](/zh_cn/using/theme)
   - [插件](/zh_cn/using/plugin)
   - [快捷方式](/zh_cn/using/alias)
+  - [封面](/zh_cn/using/cover)
   - [命令行工具](/zh_cn/using/cli)
 - 高级用法
   - [缓存目录](/zh_cn/using/cache)
