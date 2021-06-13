@@ -2,7 +2,29 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
-## `0.0.4-build_11`
+## June 2021 Updates: `0.0.5-build_12`
+
+> Updated in June 13, 2021
+
+- Updated Installer script: `install.sh` :
+  - Add logo output.
+- Updated named rules of Alias template file: `lib/alias.sh`.
+- Added feature `Cover`: `lib/cover.sh`:
+  - Added templates of Cover.
+  - Added `Default` Cover.
+- Added shell output logo:
+  - Added feature `logo`: `lib/logo.sh`.
+  - Added logo.
+- Included CLI updates:
+  - Updated CLI plugin manager:
+    - Added `start plugin` mode.
+  - Updated version outputs.
+  - Added Cover settings.
+- Updated `updater`: `lib/update.sh`.
+- Updated some comments in main scripts.
+
+
+## May 2021 Updates: `0.0.4-build_11`
 
 > Updated in May 11, 2021.
 
