@@ -6,6 +6,7 @@
   - [Themes](/using/theme)
   - [Plugins](/using/plugin)
   - [Aliases](/using/alias)
+  - [Covers](/using/cover)
   - [Command Line Interface](using/cli)
 - Advanced Usage
   - [Cache Directory](/using/cache)
