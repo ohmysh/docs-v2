@@ -105,14 +105,25 @@ curl https://gitee.com/ohmysh/ohmysh-mirror/raw/main/PATH/TO/FILE.TYPE
 
 在 Gitee 镜像仓库提交拉取请求是不会被通过的，你需要登录 GitHub 官方仓库进行提交。
 
+## Zsh
+
+OhMySh 自从 **Zsh Features Update (July 2021) (Zsh 功能性更新 2021.07)** 完成后，我们解决了 Zsh 的若干问题，现在可以正常运行了。
+
+在 `bash` 中运行以下命令:
+
+```bash
+oms --chsh zsh
+chsh -s /usr/bin/zsh
+oms -p enable zsh
+```
+
+重启计算机后即可享用！
+
 ## 已知问题
 
 > 我们将尽快修复
 
-- Zsh 问题, 请查看 _已知问题 -> 关于 zsh_ 部分。
+- Zsh 问题, 请查看 _FAQ -> zsh_ 部分。
 - 中国网络问题请查看 _FAQ -> 中国网络问题_ 部分。
 
-### 关于 zsh
-
-- OhMySh 所支持的格式与 zsh 某些格式不符，暂时无法使用。
 
