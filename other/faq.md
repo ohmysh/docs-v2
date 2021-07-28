@@ -20,13 +20,23 @@
 - **Cannot apply your own theme/plugin** : Check if your own theme/plugin name is different to OhMySH official theme/plugin name in `$OMS_DIR/usr/theme/` or `$OMS_DIR/usr/plugin/` .
 - **Cannot found CLI** : Run Install Script again to fix it
 
+## Zsh
+
+OhMySh can run on Zsh after **Zsh Features Update (July 2021)**. We fixed these errors in the update.
+
+Run these commands in `bash`:
+
+```bash
+oms --chsh zsh
+chsh -s /usr/bin/zsh
+oms -p enable zsh
+```
+
+Then, restart the computer and enjoy zsh!
+
 ## Known Problems
 
 > We will solve them quickly.
 
-- Zsh bug, please see in _Known Problems -> For Zsh_ part.
+- Zsh bug, please see in _FAQ -> Zsh_ part.
 - Chinese Internet errors, please see in _FAQ -> Chinese Internet_ part.
-
-> ### For Zsh
-> 
-> Ohmysh cannot run on zsh because of the color or prompt format of sh/bash is different to zsh.
