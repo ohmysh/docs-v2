@@ -2,6 +2,12 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## Zsh Features updates (July 2021): `0.0.5-build_12.1`
+
+> Updated in July 28, 2021
+
+- Updated feature `Zsh` from Plugin `zsh`.
+
 ## June 2021 Updates: `0.0.5-build_12`
 
 > Updated in June 13, 2021
