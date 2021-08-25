@@ -10,6 +10,7 @@
   - [命令行工具](/zh_cn/using/cli)
 - 高级用法
   - [缓存目录](/zh_cn/using/cache)
+  - [高级配置](/zh_cn/using/advconfig)
 - [常见问题 FAQ](/zh_cn/other/faq)
 - [更新日志](/zh_cn/other/changelog)
 - [卸载说明](/zh_cn/other/uninstall)

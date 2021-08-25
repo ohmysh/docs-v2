@@ -2,6 +2,17 @@
 
 > 自从 OhMySh 0.0.4 版本起，我们将把更新日志放到这里。
 
+## 八月更新 `0.0.5-build_13`
+
+> 更新于 2021 年 8 月 25 日
+
+- 更新了 `Advanced Configuration` 功能: `lib/config.sh`, `lib/etc/config.etc.sh`.
+- 解决了 `Cover` 的一些错误: `lib/cover.sh`.
+- 解决了更新程序的一些错误: `lib/update.sh`.
+- 更新了安装程序: `install.sh`.
+- 包含了 CLI 的更新: `lib/cli.sh`
+  - 更新了 CLI 的版本输出.
+
 ## Zsh 功能更新 `0.0.5-build_12.1`
 
 > 更新于 2021 年 7 月 28 日

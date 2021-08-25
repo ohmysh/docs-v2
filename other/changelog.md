@@ -2,6 +2,17 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## August 2021 Updates: `0.0.5-build_13`
+
+> Updated in August 25, 2021
+
+- Added feature `Advanced Configuration`: `lib/config.sh`, `lib/etc/config.etc.sh`.
+- Fixed some bugs from feature `Cover`: `lib/cover.sh`.
+- Fixed some bugs from Updater: `lib/update.sh`.
+- Updated Installer script: `install.sh`.
+- Included CLI updates: `lib/cli.sh`
+  - Updated CLI version output.
+
 ## Zsh Features updates (July 2021): `0.0.5-build_12.1`
 
 > Updated in July 28, 2021

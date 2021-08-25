@@ -10,6 +10,7 @@
   - [Command Line Interface](using/cli)
 - Advanced Usage
   - [Cache Directory](/using/cache)
+  - [Advanced Configuation](/using/advconfig)
 - [FAQ](/other/faq.md)
 - [Change Log](/other/changelog)
 - [Uninstalling](/other/uninstall)
