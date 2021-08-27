@@ -2,7 +2,9 @@
 
 如果你没有设定默认shell为 sh 或 bash，那么你需要运行以下命令来更换 shell。
 
-# 使用 Bash [建议]
+## Linux MacOS 用户
+
+### 使用 Bash [建议]
 
 ```bash
 chsh -s /bin/bash
@@ -10,7 +12,7 @@ chsh -s /bin/bash
 
 然后重启。
 
-# 使用 Zsh
+### 使用 Zsh
 
 ```bash
 chsh -s /bin/bash
@@ -26,7 +28,7 @@ oms -p enable zsh
 
 然后重启电脑。
 
-# 使用 SH
+### 使用 SH
 
 如果你不知道什么是 SH，你最好不要选择更换到 sh。
 
@@ -37,3 +39,7 @@ chsh -s /bin/sh
 ```
 
 **或者**你不希望更换shell，你也可以启动时运行 `sh --login` 。
+
+## Windows 用户
+
+重启计算机即可。
