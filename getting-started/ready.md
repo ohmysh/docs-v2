@@ -2,13 +2,15 @@
 
 If you didn't change default shell to SH and bash while installing the OMS, you can run this comand and reboot your machine after that:
 
-## Running with bash [Recommended]
+## For Linux and MacOS users
+
+### Running with bash [Recommended]
 
 ```bash
 chsh -s /bin/bash
 ```
 
-## Running with Zsh
+### Running with Zsh
 
 ```bash
 chsh -s /bin/bash
@@ -24,7 +26,7 @@ oms -p enable zsh
 
 Then, reboot your device.
 
-## Running with SH
+### Running with SH
 
 If you don't know what it is, do NOT try it.
 
@@ -35,3 +37,7 @@ chsh -s /bin/sh
 ```
 
 **Or** run command `sh --login` or `bash` if you want to use it.
+
+## For Windows users
+
+Restart the Windows system and enjoy!
