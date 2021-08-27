@@ -5,8 +5,8 @@
 - :x: Powershell
 - :x: Cmd
 - :white_check_mark: [Cmder](https://cmder.net/)
-- :arrow_upper_left: [Windows Subsystem Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) See in Linux part (which you are using)
 - :white_check_mark: [Git Bash (for Windows)](https://git-scm.com/)
+- :arrow_upper_left: [Windows Subsystem Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/install-win10) See in Linux part (which you are using)
 
 ## MacOS
 
