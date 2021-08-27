@@ -36,6 +36,10 @@ Run the following script with **any** shell.
 bash
 ```
 
+## Ready to use
+
+Please read **Ready to use** page in docs. It will be very useful!
+
 ## Advanced Options
 
 ### Getting Installer
