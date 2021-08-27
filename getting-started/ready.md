@@ -12,6 +12,11 @@ chsh -s /bin/bash
 
 ```bash
 chsh -s /bin/bash
+```
+
+Sign out and sign in to your device.
+
+```bash
 oms --chsh zsh
 chsh -s /usr/bin/zsh
 oms -p enable zsh
