@@ -1,46 +1,3 @@
-<!--
-# OhMySh FAQ
-
-[到这个页面获取最新的 FAQ](https://ohmysh.github.io/docs-v2/#/other/faq)
-
-## Installation Errors
-
-- **Error code `1`** : OMS cannot found some application for run OMS, you can read "Prepare" to fix
-
-## Using Errors
-
-- **Error 1** : Run `ohmysh --themelist` to check the name.
-
-- **Error 2** : Run `ohmysh --pluginlist` to check the name.
-
-
-
-
-- **Cannot run OMS** : Run Installer Script and add option `--config` like `sh OMSInstaller.sh --config`
-
-- **Cannot apply your own theme/plugin** : Check if your own theme/plugin name is different to OhMySH official theme/plugin name in `$OMS_DIR/usr/theme/` or `$OMS_DIR/usr/plugin/` .
-
-## OhMySh Command Line Interface
-
-- **ERROR 1** : Run `ohmysh --help`
-- **ERROR 2** : Run `ohmysh --help` to check your options
-
-
-
-- **Cannot found CLI** : Run Install Script again to fix it
-
-## Known Problems
-
-> We will solve them quickly.
-
-- Zsh bug, please see in _Known Problems -> For Zsh_ part.
-
-> ### For Zsh
-> 
-> Ohmysh cannot run on zsh because of the color or prompt format of sh/bash is different to zsh.
-
--->
-
 # OhMySh FAQ
 
 ## 安装错误
@@ -62,12 +19,6 @@
 - **无法运行 OMS** : 添加 `--config` 参数运行安装程序，例如 `sh OMSInstaller.sh --config`
 - **无法应用自己的主题/插件** : 检查你自己的主题/插件名称是否与官方仓库 `$OMS_DIR/usr/theme/` 或 `$OMS_DIR/usr/plugin/` 目录下名称重复
 - **Cannot found CLI** : 重新安装 OhMySh 以解决问题
-
-## OhMySh 命令行界面 (Command Line Interface)
-
-
-
-
 
 
 ## 中国网络问题
