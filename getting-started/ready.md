@@ -8,6 +8,17 @@ If you didn't change default shell to SH and bash while installing the OMS, you 
 chsh -s /bin/bash
 ```
 
+## Running with Zsh
+
+```bash
+chsh -s /bin/bash
+oms --chsh zsh
+chsh -s /usr/bin/zsh
+oms -p enable zsh
+```
+
+Then, reboot your device.
+
 ## Running with SH
 
 If you don't know what it is, do NOT try it.
