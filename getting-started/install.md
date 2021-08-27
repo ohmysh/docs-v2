@@ -8,9 +8,9 @@ If you have any question, open a new issue in [(ohmysh/ohmysh) repository](https
 
 Check your system required first in [System Page](/getting-started/system).
 
-OhMySh works with [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_shell) and GNU-Bash.
+OhMySh works with [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_shell) , GNU-Bash and Zsh.
 
-So make sure `sh (>=4.x.x)` and `bash (>=4.x.x)` was installed. There are some other dependences: `curl` `git` .
+So make sure `sh (>=4.x.x)` and `bash (>=4.x.x)` or `zsh (>=5.x.x)` was installed. There are some other dependences: `curl` `git` .
 
 ## Installation
 
