@@ -1,6 +1,18 @@
 # 更新日志
 
-> 自从 OhMySh 0.0.4 版本起，我们将把更新日志放到这里。
+> 自从 OhMySh 0.0.4 版本起，我们把更新日志放到这里。
+
+## 九月体验更新 `0.0.5-build_14`, `0.0.5-build_15`
+
+> 更新于 2021 年 9 月 25 日
+
+- `0.0.5-build_14`
+  - 更新了 `Advanced Configuration` 功能: `lib/config.sh`, `lib/etc/config.etc.sh`.
+  - 解决了 CLI 的一些错误.
+  - 更新了 `主题` 功能的 `git prompt` 功能 : `lib/git-prompt.sh`.
+  - 更新了一些主题
+- `0.0.5-build_15`
+  - 更新了 `Command Redirect` 功能 : `lib/opt/map.sh` .
 
 ## 八月更新 `0.0.5-build_13`
 

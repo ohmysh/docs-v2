@@ -2,9 +2,21 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## September 2021 Experience Updates: `0.0.5-build_14`, `0.0.5-build_15`
+
+> Updated on September 25, 2021
+
+- `0.0.5-build_14`
+  - Updated feature `Advanced Configuration`: `lib/config.sh`, `lib/etc/config.etc.sh`.
+  - Fixed some bugs from CLI.
+  - Updated feature `git prompt` from feature `Theme` : `lib/git-prompt.sh`.
+  - Updated some themes.
+- `0.0.5-build_15`
+  - Updated feature `Command Redirect` : `lib/opt/map.sh` .
+
 ## August 2021 Updates: `0.0.5-build_13`
 
-> Updated in August 25, 2021
+> Updated on August 25, 2021
 
 - Added feature `Advanced Configuration`: `lib/config.sh`, `lib/etc/config.etc.sh`.
 - Fixed some bugs from feature `Cover`: `lib/cover.sh`.
@@ -15,13 +27,13 @@
 
 ## Zsh Features updates (July 2021): `0.0.5-build_12.1`
 
-> Updated in July 28, 2021
+> Updated on July 28, 2021
 
 - Updated feature `Zsh` from Plugin `zsh`.
 
 ## June 2021 Updates: `0.0.5-build_12`
 
-> Updated in June 13, 2021
+> Updated on June 13, 2021
 
 - Updated Installer script: `install.sh` :
   - Add logo output.
@@ -43,7 +55,7 @@
 
 ## May 2021 Updates: `0.0.4-build_11`
 
-> Updated in May 11, 2021.
+> Updated on May 11, 2021.
 
 - Updated ReadMe file
 - Included Installer update: `install.sh` :
@@ -52,14 +64,14 @@
 
 ## OhMySH mirror script
 
-> Updated in April 18, 2021
+> Updated on April 18, 2021
 
 - Updated mirror script
   - Included module "Build Pages".
 
 ## `0.0.3-pre_10`
 
-> Updated in 2021/03/27
+> Updated on 2021/03/27
 
 - Added feature `Special Date Remind` : `lib/opt/special-date.sh`
 - Added feature `Command Redirect` : `lib/opt/map.sh`
@@ -69,7 +81,7 @@
 
 ## OhMySh Chinese Mirror (Gitee)
 
-> Update in 2021/03/25.
+> Update on 2021/03/25.
 
 Chinese mirror includes OhMySH main Repo and OhMySH Opened Documents (v2).
 
