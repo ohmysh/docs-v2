@@ -1,5 +1,7 @@
 # OhMySh FAQ
 
+这是常见的一些报错，您可以通过下表自行解决错误，如果仍未解决，您可以在 [GitHub ohmysh/ohmysh 仓库](https://github.com/ohmysh/ohmysh/issues)向我们提出 Issue。
+
 ## 安装错误
 
 - **Error code `1`** : OhMySh 安装器找不到某些需要的软件，请阅读[安装说明->准备](https://ohmysh.github.io/docs-v2/#/zh_cn/getting-started/install?id=%e5%87%86%e5%a4%87)部分
@@ -8,11 +10,12 @@
 
 ## 使用错误
 
-- **ERROR 1** : 运行 `ohmysh --help`
-- **ERROR 2** : 运行 `ohmysh --help` 检查你的参数是否正确
-- **ERROR 3** : 添加 `--config` 参数运行安装程序，例如 `sh OMSInstaller.sh --config`
-- **ERROR 4** : 运行 `ohmysh --themelist` 检查你所输入的名称是否存在
-- **ERROR 5** : 运行 `ohmysh --pluginlist` 检查你所输入的名称是否存在
+- **ERROR 1** : 运行 `ohmysh --help` 。
+- **ERROR 2** : 运行 `ohmysh --help` 检查你的参数是否正确。
+- **ERROR 3** : 添加 `--config` 参数运行安装程序，例如 `sh OMSInstaller.sh --config` 。
+- **ERROR 4** : 运行 `ohmysh --themelist` 检查你所输入的名称是否存在。
+- **ERROR 5** : 运行 `ohmysh --pluginlist` 检查你所输入的名称是否存在。
+- **ERROR 6** : 请检查您的网络连接，我们无法连接到 GitHub 的仓库。
 
 
 
