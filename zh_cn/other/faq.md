@@ -15,7 +15,9 @@
 - **ERROR 3** : 添加 `--config` 参数运行安装程序，例如 `sh OMSInstaller.sh --config` 。
 - **ERROR 4** : 运行 `ohmysh --themelist` 检查你所输入的名称是否存在。
 - **ERROR 5** : 运行 `ohmysh --pluginlist` 检查你所输入的名称是否存在。
-- **ERROR 6** : 请检查您的网络连接，我们无法连接到 GitHub 的仓库。
+- **ERROR 6** : 请检查您的终端是否支持 `declare` （可能是由于你的终端版本过老导致的）
+- **ERROR 7** : 请检查您的网络连接，我们无法连接到 GitHub 的仓库。
+
 
 
 
