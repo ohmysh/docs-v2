@@ -13,6 +13,7 @@
 - **ERROR 3** : Run Installer Script and add option `--config` like `sh OMSInstaller.sh --config`
 - **ERROR 4** : Run `ohmysh --themelist` to check the name.
 - **ERROR 5** : Run `ohmysh --pluginlist` to check the name.
+- **ERROR 6** : Check your Internet connection, we cannot connect to GitHub repository.
 
 
 
