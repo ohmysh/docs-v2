@@ -2,6 +2,21 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## October 2021 Experience Updates: `0.0.5-build_16`, `0.0.5-build_PRE17`, `0.0.5-build_18`
+
+> Updated on October 24, 2021
+
+- `0.0.5-build_16`
+  - Updated feature `Advanced Configuration`: `lib/config.sh`, `lib/etc/config.etc.sh`, cover, map, updater.
+- `0.0.5-build_PRE17`
+  - Updated `logo`: `lib/logo.sh`.
+  - Updated feature `CLI::version` display: `lib/ohmysh-cli.sh`.
+- `0.0.5-build_18`
+  - Updated feature `Theme` output log: `lib/theme.sh`.
+  - Updated feature `Updater` output log: `lib/update.sh`.
+  - Fixed some bugs main script: `main.sh`.
+  - Updated plugin `pacman`: `usr/plugin/pacman/pacman.plugin.sh`.
+
 ## September 2021 Experience Updates: `0.0.5-build_14`, `0.0.5-build_15`
 
 > Updated on September 25, 2021
