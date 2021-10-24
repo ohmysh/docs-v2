@@ -2,12 +2,27 @@
 
 > 自从 OhMySh 0.0.4 版本起，我们把更新日志放到这里。
 
+## 十月体验更新 `0.0.5-build_16`, `0.0.5-build_PRE17`, `0.0.5-build_18`
+
+> 更新于 2021 年 10 月 24 日
+
+- `0.0.5-build_16`
+  - 更新了 `高级配置` 功能: `lib/config.sh`, `lib/etc/config.etc.sh`, cover, map, updater.
+- `0.0.5-build_PRE17`
+  - 更新了 `logo`: `lib/logo.sh`.
+  - 更新了 `CLI::version` 显示功能: `lib/ohmysh-cli.sh`.
+- `0.0.5-build_18`
+  - 更新了 `主题` 功能的输出显示: `lib/theme.sh`.
+  - 更新了 `更新器` 功能的输出显示: `lib/update.sh`.
+  - 解决了主程序中的一些问题: `main.sh`.
+  - 更新了 `pacman` 插件: `usr/plugin/pacman/pacman.plugin.sh`.
+
 ## 九月体验更新 `0.0.5-build_14`, `0.0.5-build_15`
 
 > 更新于 2021 年 9 月 25 日
 
 - `0.0.5-build_14`
-  - 更新了 `Advanced Configuration` 功能: `lib/config.sh`, `lib/etc/config.etc.sh`.
+  - 更新了 `高级配置` 功能: `lib/config.sh`, `lib/etc/config.etc.sh`.
   - 解决了 CLI 的一些错误.
   - 更新了 `主题` 功能的 `git prompt` 功能 : `lib/git-prompt.sh`.
   - 更新了一些主题
@@ -18,8 +33,8 @@
 
 > 更新于 2021 年 8 月 25 日
 
-- 更新了 `Advanced Configuration` 功能: `lib/config.sh`, `lib/etc/config.etc.sh`.
-- 解决了 `Cover` 的一些错误: `lib/cover.sh`.
+- 更新了 `高级配置` 功能: `lib/config.sh`, `lib/etc/config.etc.sh`.
+- 解决了 `封面` 的一些错误: `lib/cover.sh`.
 - 解决了更新程序的一些错误: `lib/update.sh`.
 - 更新了安装程序: `install.sh`.
 - 包含了 CLI 的更新: `lib/cli.sh`
