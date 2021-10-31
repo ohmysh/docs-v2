@@ -15,6 +15,7 @@
 - **ERROR 5** : Run `ohmysh --pluginlist` to check the name.
 - **ERROR 6** : Check your Internet connection, we cannot connect to GitHub repository.
 - **ERROR 7** : Some parameters are missing. Please check if the command is correct.
+- **ERROR 8** : Please check if your shell supports `declare` (Maybe you can try to update the shell)
 
 
 
