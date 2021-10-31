@@ -28,9 +28,9 @@ Then, reboot your device.
 
 ### Running with SH
 
-If you don't know what it is, do NOT try it.
+**If you don't know what it is, do NOT try it.**
 
-Go to check your system in installation guide.
+First, check your system in the installation guide.
 
 ```bash
 chsh -s /bin/sh
@@ -40,4 +40,4 @@ chsh -s /bin/sh
 
 ## For Windows users
 
-Restart the Windows system and enjoy!
+Restart the cmder or terminal and enjoy!

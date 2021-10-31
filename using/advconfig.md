@@ -11,7 +11,7 @@ This guide will help to configure some more.
 OhMySh Updater will install the latest update automaticly. If you don't want to install the update automaticly, you can dis-comment this command in config file.
 
 ```bash
-configUpdateDisable=1
+configUpdateDisable='Disable'
 ```
 
 > If you want to install update manually, try `oms -u`.
@@ -21,5 +21,26 @@ configUpdateDisable=1
 [Cover is a feature in OhMySh.](https://ohmysh.github.io/docs-v2/#/using/cover) If you want to disable it, you can dis-comment this command in config file.
 
 ```bash
-configCoverDisable=1
+configCoverDisable='Disable'
 ```
+
+## Edit Start Path
+
+If you want to change it, you can dis-comment this command in config file and edit it.
+
+```bash
+configStartPath='/path/path/'
+```
+
+## Disable/Enable some command
+
+You can dis-comment this command in config file.
+
+```bash
+mapLs='Disable'  # Or Enable
+mapCd='Disable'
+mapHelp='Enable'
+mapMSDos='Enable'
+mapCSP2021='Disable'
+```
+

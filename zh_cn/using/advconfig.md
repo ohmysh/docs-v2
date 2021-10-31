@@ -11,7 +11,7 @@
 OhMySh 更新器将会帮助你自动安装的更新，如果你不希望自动安装，你取消注释以下内容。
 
 ```bash
-configUpdateDisable=1
+configUpdateDisable='Disable'
 ```
 
 > 如果你希望手动更新，请使用 `oms -u`.
@@ -21,5 +21,28 @@ configUpdateDisable=1
 [封面是 OhMySh 的一个功能，点击了解](https://ohmysh.github.io/docs-v2/#/zh_cn/using/cover) 如果你希望停用他，取消注释掉下面的内容。
 
 ```bash
-configCoverDisable=1
+configCoverDisable='Disable'
 ```
+
+## 更改启动路径
+
+如果你希望更改它，你可以取消以下注释。
+
+```bash
+configStartPath='/path/path/'
+```
+
+## 禁用/启用一些命令
+
+你可以在配置文件中取消注释下面的内容。
+
+```bash
+mapLs='Disable'  # Or Enable
+mapCd='Disable'
+mapHelp='Enable'
+mapMSDos='Enable'
+mapCSP2021='Disable'
+```
+
+
+

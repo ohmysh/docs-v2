@@ -38,7 +38,7 @@ bash
 
 ## Ready to use
 
-Please read **Ready to use** page in docs. It will be very useful!
+Please read [Ready to use](/getting-started/ready) page in docs. **It will be very useful!**
 
 ## Advanced Options
 

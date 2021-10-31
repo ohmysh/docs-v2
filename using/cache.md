@@ -1,6 +1,6 @@
 # Cache of OhMySh
 
-## Where is it
+## Location
 
 Cache of OhMySh is a directory.
 
