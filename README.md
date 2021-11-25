@@ -2,7 +2,7 @@
 
 ![OMS logo](https://cdn.statically.io/gh/ohmysh/image/main/OhMySh-icon-2documents.png)
 
-**The SH Shell Framework**
+**The Excellent Shell Framework**
 
 [GitHub](https://github.com/ohmysh/ohmysh) | [FAQ](https://ohmysh.github.io/docs-v2/#/other/faq) | [Getting Started](https://ohmysh.github.io/docs-v2/#/getting-started/install) | [Using OhMySh](https://ohmysh.github.io/docs-v2) | [View the  License](https://github.com/ohmysh/ohmysh/blob/main/LICENSE)
 
