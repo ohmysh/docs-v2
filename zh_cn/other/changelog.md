@@ -2,6 +2,18 @@
 
 > 自从 OhMySh 0.0.4 版本起，我们把更新日志放到这里。
 
+## 十一月累积更新 `0.0.5-build_21`
+
+> 更新于 2021 年 11 月 25 日
+
+- 解决了 shell-check 发现的一大堆问题 (32 个文件).
+- 解决了自动化的错误: `.github/workflows/`
+- 停用了旧 git 模块: `lib/git.sh`
+- 停用了旧 `_OMS_PWD` 命名规则 : `lib/dir.sh`
+- 修正了 `logo` 出现的问题 : `lib/logo.sh`
+
+> 包含了 `build_PRE19`, `build_PRE20`, `build_21`.
+
 ## 十月体验更新 `0.0.5-build_16`, `0.0.5-build_PRE17`, `0.0.5-build_18`
 
 > 更新于 2021 年 10 月 24 日
