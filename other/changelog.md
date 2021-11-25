@@ -2,9 +2,21 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## November 2021 Cumulative Updates: `0.0.5-build_21`
+
+> Updated on November 25, 2021.
+
+- Fixed a lot of bugs from shell-check (32 files).
+- Fixed workflow error: `.github/workflows/`
+- Disabled git tools: `lib/git.sh`
+- Disabled rule `_OMS_PWD` : `lib/dir.sh`
+- Fixed future `logo` : `lib/logo.sh`
+
+> Included `build_PRE19`, `build_PRE20`, `build_21`.
+
 ## October 2021 Experience Updates: `0.0.5-build_16`, `0.0.5-build_PRE17`, `0.0.5-build_18`
 
-> Updated on October 24, 2021
+> Updated on October 24, 2021.
 
 - `0.0.5-build_16`
   - Updated feature `Advanced Configuration`: `lib/config.sh`, `lib/etc/config.etc.sh`, cover, map, updater.
