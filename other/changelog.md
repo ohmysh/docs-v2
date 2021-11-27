@@ -4,7 +4,7 @@
 
 ## November 2021 Cumulative Updates: `0.0.5-build_21`
 
-> Updated on November 25, 2021.
+> Updated on November 27, 2021.
 
 - Fixed a lot of bugs from shell-check (32 files).
 - Fixed workflow error: `.github/workflows/`
