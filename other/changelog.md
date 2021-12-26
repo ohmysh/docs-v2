@@ -2,6 +2,15 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## December 2021 Cumulative Updates: `0.0.5-build_23`
+
+> Updated on December 26, 2021
+
+- Fixed bugs of feature `theme` : `usr/theme/*`
+- Included CLI updates `0.0.5-build_16` :
+  - Fixed bugs of plugin options.
+- [*Beta Version*] Added a new feature `trash`
+
 ## November 2021 Cumulative Updates: `0.0.5-build_21`
 
 > Updated on November 27, 2021.
