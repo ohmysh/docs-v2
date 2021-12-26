@@ -16,6 +16,8 @@
 - **ERROR 6** : Check your Internet connection, we cannot connect to GitHub repository.
 - **ERROR 7** : Some parameters are missing. Please check if the command is correct.
 - **ERROR 8** : Please check if your shell supports `declare` (Maybe you can try to update the shell)
+- **ERROR 9** : Cannot find `realpath` tool on your computer, please check if your shell supports it.
+- **ERROR 10** : Some parameters are missing. Please check if the command is correct.
 
 
 
