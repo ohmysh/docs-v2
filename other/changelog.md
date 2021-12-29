@@ -4,7 +4,7 @@
 
 ## December 2021 Cumulative Updates: `0.0.5-build_23`
 
-> Updated on December 26, 2021
+> Updated on December 29, 2021
 
 - Fixed bugs of feature `theme` : `usr/theme/*`
 - Included CLI updates `0.0.5-build_16` :
