@@ -14,7 +14,11 @@ If you want to get a list of the trash bin, use `lstrash`.
 Example:
 
 ```bash
-
+$ lstrash
+ Date deleted           File name
+ 2021-12-04 20:05:50    /home/ohmysh/hey
+ 2021-12-05 10:45:09    /home/ohmysh/hello
+ 2021-12-25 18:38:37    /home/ohmysh/hey
 ```
 
 ## `rmtrash` : Delete a file permanently from the bin
