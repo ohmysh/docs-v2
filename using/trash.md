@@ -13,10 +13,12 @@ To delete a file to the bin, use `trash FILE`.
 
 If you want to get a list of the trash bin, use `lstrash`.
 
+If you want to search some files in the bin, use `lstrash /KEY` or `lstrash PATH`.
+
 Example:
 
 ```bash
-$ lstrash
+$ lstrash h
  Date deleted           File name
  2021-12-04 20:05:50    /home/ohmysh/hey
  2021-12-05 10:45:09    /home/ohmysh/hello
