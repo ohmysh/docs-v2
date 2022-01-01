@@ -5,6 +5,23 @@
 
 Notice: The trash application depends on `realpath`.
 
+```bash
+              trash help:
+trash:
+  trash FILE       :  move a file/folder to the bin
+lstrash:
+  lstrash          :  get a list of the bin
+  lstrash /KEY     :  search KEY
+  lstrash PATH     :  search file on PATH
+rmtrash:
+  rmtrash FILE     :  remove FILE
+  rmtrash /KEY     :  search KEY to remove
+  rmtrash -a       :  remove all files
+retrash:
+  retrash FILE     :  restore FILE
+  retrash /KEY     :  search KEY to restore
+```
+
 ## `trash` : Move a file to the trash bin
 
 To delete a file to the bin, use `trash FILE`.
@@ -31,6 +48,8 @@ $ lstrash h
 If you want to delete a file permanently, try `rmtrash PATH/FILENAME`.
 
 To search a file, try `rmtrash /SEARCH_NAME`
+
+To delete all the files in the bin, try `rmtrash -a`.
 
 ## `retrash` : Restore a file from the bin
 
