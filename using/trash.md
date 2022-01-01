@@ -3,6 +3,8 @@
 > This feature is testing now.
 > Included in `PRE24`.
 
+Notice: The trash application depends on `realpath`.
+
 ## `trash` : Move a file to the trash bin
 
 To delete a file to the bin, use `trash FILE`.
@@ -22,5 +24,16 @@ $ lstrash
 ```
 
 ## `rmtrash` : Delete a file permanently from the bin
+
+
+If you want to delete a file permanently, try `rmtrash PATH/FILENAME`.
+
+To search a file, try `rmtrash /SEARCH_NAME`
+
+## `retrash` : Restore a file from the bin
+
+If you want to restore a file, try `retrash PATH/FILENAME`
+
+To search a file, try `retrash /SEARCH_NAME`
 
 
