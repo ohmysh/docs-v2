@@ -1,7 +1,7 @@
 # Trash Manager
 
 > This feature is testing now.
-> Included in `PRE24`.
+> Included in `PRE24`. to try a stable version, please install `PRE26.220103`.
 
 Notice: The trash application depends on `realpath`.
 
@@ -11,16 +11,18 @@ trash:
   trash FILE       :  move a file/folder to the bin
 lstrash:
   lstrash          :  get a list of the bin
-  lstrash /KEY     :  search KEY
+  lstrash KEY      :  search KEY
   lstrash PATH     :  search file on PATH
 rmtrash:
   rmtrash FILE     :  remove FILE
-  rmtrash /KEY     :  search KEY to remove
+  rmtrash KEY      :  search KEY to remove
   rmtrash -a       :  remove all files
 retrash:
   retrash FILE     :  restore FILE
-  retrash /KEY     :  search KEY to restore
+  retrash KEY      :  search KEY to restore
 ```
+
+You can enable `mapTrash` in [Advanced Configuration](/using/advconfig).
 
 ## `trash` : Move a file to the trash bin
 
@@ -30,7 +32,7 @@ To delete a file to the bin, use `trash FILE`.
 
 If you want to get a list of the trash bin, use `lstrash`.
 
-If you want to search some files in the bin, use `lstrash /KEY` or `lstrash PATH`.
+If you want to search some files in the bin, use `lstrash KEY` or `lstrash PATH`.
 
 Example:
 
@@ -47,7 +49,7 @@ $ lstrash h
 
 If you want to delete a file permanently, try `rmtrash PATH/FILENAME`.
 
-To search a file, try `rmtrash /SEARCH_NAME`
+To search a file, try `rmtrash SEARCH_NAME`
 
 To delete all the files in the bin, try `rmtrash -a`.
 
@@ -55,6 +57,6 @@ To delete all the files in the bin, try `rmtrash -a`.
 
 If you want to restore a file, try `retrash PATH/FILENAME`
 
-To search a file, try `retrash /SEARCH_NAME`
+To search a file, try `retrash SEARCH_NAME`
 
 
