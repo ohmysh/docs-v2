@@ -32,7 +32,7 @@ If you want to change it, you can dis-comment this command in config file and ed
 configStartPath='/path/path/'
 ```
 
-## Disable/Enable some command
+## Disable/Enable some aliases command
 
 You can dis-comment this command in config file.
 
@@ -42,5 +42,10 @@ mapCd='Disable'
 mapHelp='Enable'
 mapMSDos='Enable'
 mapCSP2021='Disable'
+mapTrash='Enable'
 ```
+
+## Trash Services
+
+See in [here](/using/trash).
 
