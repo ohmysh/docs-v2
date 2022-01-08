@@ -1,12 +1,12 @@
 # 垃圾管理
 
-> This feature is testing now.
-> Included in `PRE24`. to try a stable version, please install `PRE26.220103`.
+> 本功能正在测试中……
+> 包含在 `PRE24`. 如果希望使用本服务，建议安装 `PRE26.220103`.
 
-Notice: The trash application depends on `realpath`.
+注意: 本程序依赖于 `realpath`.
 
 ```bash
-              trash help:
+              trash 帮助:
 trash:
   trash FILE       :  move a file/folder to the bin
 lstrash:
@@ -22,19 +22,19 @@ retrash:
   retrash KEY      :  search KEY to restore
 ```
 
-You can enable `mapTrash` in [Advanced Configuration](/using/advconfig).
+你可以在[高级配置](/zh_cn/using/advconfig).启用 `mapTrash`
 
-## `trash` : Move a file to the trash bin
+## `trash` : 将文件丢进垃圾站
 
-To delete a file to the bin, use `trash FILE`.
+删除文件使用 `trash FILE`.
 
-## `lstrash` : Get a list of the trash bin
+## `lstrash` : 获得垃圾站的文件列表
 
-If you want to get a list of the trash bin, use `lstrash`.
+如果你希望获得文件列表，使用 `lstrash`.
 
-If you want to search some files in the bin, use `lstrash KEY` or `lstrash PATH`.
+搜索请使用 `lstrash KEY` or `lstrash PATH`.
 
-Example:
+举个例子:
 
 ```bash
 $ lstrash h
@@ -44,19 +44,35 @@ $ lstrash h
  2021-12-25 18:38:37    /home/ohmysh/hey
 ```
 
-## `rmtrash` : Delete a file permanently from the bin
+## `rmtrash` : 完全地删除文件
 
+如果你希望强制删除文件，使用 `rmtrash PATH/FILENAME`.
 
-If you want to delete a file permanently, try `rmtrash PATH/FILENAME`.
+搜索文件删除请使用 `rmtrash SEARCH_NAME`
 
-To search a file, try `rmtrash SEARCH_NAME`
+清空垃圾站，使用 `rmtrash -a`.
 
-To delete all the files in the bin, try `rmtrash -a`.
+## `retrash` : 恢复垃圾站文件
 
-## `retrash` : Restore a file from the bin
+恢复文件， `retrash PATH/FILENAME`
 
-If you want to restore a file, try `retrash PATH/FILENAME`
+搜索一个文件来恢复， `retrash SEARCH_NAME`
 
-To search a file, try `retrash SEARCH_NAME`
+# 垃圾服务
 
+我们提供以下服务：
 
+## 垃圾自动删除
+
+你是否需要定时自动删除文件？OhMySh 能帮到你！
+
+启用它，运行 `oms -e` (vi) 或 `oms -e EDITOR` 打开配置文件，并键入以下内容：
+
+```bash
+export trashService='Enable'
+export trashAutoDeleteService='Enable'
+export trashAutoDeleteConfigDate='30'
+```
+
+- `trashAutoDeleteService` : 启用或禁用自动删除服务
+- `trashAutoDeleteConfigDate` : 自动删除日期，建议 30 天。
