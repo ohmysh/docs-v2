@@ -59,4 +59,21 @@ If you want to restore a file, try `retrash PATH/FILENAME`
 
 To search a file, try `retrash SEARCH_NAME`
 
+# Trash Services
 
+We provide these services:
+
+## Trash Auto Deleting
+
+Do you need to delete trashes automatically? OhMySh can do this!
+
+To enable this, run `oms -e` (vi) or `oms -e EDITOR` to open config file and input the following stuff into it.
+
+```bash
+export trashService='Enable'
+export trashAutoDeleteService='Enable'
+export trashAutoDeleteConfigDate='30'
+```
+
+- `trashAutoDeleteService` : Enable/Disable Auto Deleting Service.
+- `trashAutoDeleteConfigDate` : Auto deleting date (>0), We recommand 30 days.
