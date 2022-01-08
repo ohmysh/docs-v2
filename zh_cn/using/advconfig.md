@@ -42,7 +42,10 @@ mapCd='Disable'
 mapHelp='Enable'
 mapMSDos='Enable'
 mapCSP2021='Disable'
+mapTrash='Enable'
 ```
 
+## 垃圾服务
 
+在[本文查看](/zh_cn/using/trash)。
 
