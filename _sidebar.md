@@ -7,7 +7,8 @@
   - [Plugins](/using/plugin)
   - [Aliases](/using/alias)
   - [Covers](/using/cover)
-  - [Command Line Interface](using/cli)
+  - [Command Line Interface](/using/cli)
+  - [Trash Manager *[Testing]*](/using/trash)
 - Advanced Usage
   - [Cache Directory](/using/cache)
   - [Advanced Configuation](/using/advconfig)
