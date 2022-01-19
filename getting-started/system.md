@@ -14,7 +14,7 @@
 
 ## Linux
 
-- **Ubuntu/Kubantu/Debian...** : Bash/Zsh
+- **Ubuntu/Kubantu/Debian/Synology...** : Bash/Zsh
 - **Arch/Manjaro/Arco...** : Bash/SH/Zsh
 - **RedHat/CentOS...** : Bash/Zsh
 - **Deepin...** : Bash/Zsh
