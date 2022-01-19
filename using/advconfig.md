@@ -49,3 +49,10 @@ mapTrash='Enable'
 
 See in [here](/using/trash).
 
+## System Environment Path (`$PATH`)
+
+To add environment path, dis-comment this and add something in it.
+
+```bash
+configPathEnv='Path1:Path2:Path3:...'
+```
