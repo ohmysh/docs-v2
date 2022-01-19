@@ -51,3 +51,10 @@ It is diffirence from `runtime-script`, the files in here will **not** delete. Y
 
 This file holds the aliases of your shell. See in [Aliases](https://ohmysh.github.io/docs-v2/#/using/alias).
 
+## `cover.ohmysh.sh` File
+
+See in [Covers](/using/cover).
+
+## `config.ohmysh.sh` File
+
+See in [Advanced Configuration](/using/advconfig).
