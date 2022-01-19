@@ -50,3 +50,11 @@ YYYY/MM/DD
 ## `alias.ohmysh.sh` 文件
 
 这个文件保存着所有的快捷方式，详见[快捷方式 (Aliases)](https://ohmysh.github.io/docs-v2/#/using/alias).
+
+## `cover.ohmysh.sh` 文件
+
+详见[封面 (Covers)](/zh_cn/using/cover).
+
+## `config.ohmysh.sh` 文件
+
+详见[高级配置 (Advanced Configuration)](/zh_cn/using/advconfig).
