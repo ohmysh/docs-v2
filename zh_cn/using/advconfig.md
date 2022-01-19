@@ -49,3 +49,10 @@ mapTrash='Enable'
 
 在[本文查看](/zh_cn/using/trash)。
 
+## 系统环境变量设置 (`$PATH`)
+
+通过添加下列内容，可以追加环境变量。
+
+```bash
+configPathEnv='Path1:Path2:Path3:...'
+```
