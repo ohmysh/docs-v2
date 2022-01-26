@@ -2,6 +2,18 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## January 2022 Functional Updates
+
+> Going on January 28, 2022
+
+- Updated the new feature `trash`
+- Added some trash services
+- Updated `Installer` with colours
+- Added environment path settings
+- Included CLI updates `0.0.5-build_17`
+  - Updated help menu
+  - Added `Advanced Configuration` settings alias
+
 ## December 2021 Cumulative Updates: `0.0.5-build_23`
 
 > Updated on December 29, 2021
