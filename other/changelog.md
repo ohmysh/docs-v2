@@ -2,9 +2,9 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
-## January 2022 Functional Updates
+## January 2022 Functional Updates: `0.0.5-build_30.220129`
 
-> Going on January 28, 2022
+> Updated on January 29, 2022
 
 - Updated the new feature `trash`
 - Added some trash services
