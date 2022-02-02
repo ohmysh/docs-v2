@@ -1,8 +1,5 @@
 # Trash Manager
 
-> This feature is testing now.
-> Included in `PRE24`. to try a stable version, please install `PRE26.220103`.
-
 Notice: The trash application depends on `realpath`.
 
 ```bash
