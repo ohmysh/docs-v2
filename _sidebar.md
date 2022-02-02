@@ -8,7 +8,8 @@
   - [Aliases](/using/alias)
   - [Covers](/using/cover)
   - [Command Line Interface](/using/cli)
-  - [Trash Manager *[Testing]*](/using/trash)
+  - [Trash Manager](/using/trash)
+  - [Bash Completion](/using/comp)
 - Advanced Usage
   - [Cache Directory](/using/cache)
   - [Advanced Configuation](/using/advconfig)
