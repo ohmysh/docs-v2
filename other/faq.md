@@ -18,6 +18,7 @@
 - **ERROR 8** : Please check if your shell supports `declare` (Maybe you can try to update the shell)
 - **ERROR 9** : Cannot find `realpath` tool on your computer, please check if your shell supports it.
 - **ERROR 10** : Some parameters are missing. Please check if the command is correct.
+- **ERROR 11** : Your bash-completion application installed path setting went wrong. Check the path in [here](/using/comp)
 
 
 
@@ -45,4 +46,4 @@ Then, restart the computer and enjoy zsh!
 
 - Zsh bug, please see in _FAQ -> Zsh_ part.
 - Chinese Internet errors, please see in _FAQ -> Chinese Internet_ part.
-- You may not run plugins by CLI in `0.0.5-build_21`. We fixed it, and to solve it, you can download December Updates.
+- ~~You may not run plugins by CLI in `0.0.5-build_21`.~~ We fixed it, and to solve it, you can download December Updates.
