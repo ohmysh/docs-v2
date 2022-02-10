@@ -56,3 +56,13 @@ mapTrash='Enable'
 ```bash
 configPathEnv='Path1:Path2:Path3:...'
 ```
+
+## Bash-Completion
+
+详见[Bash-Completion](/zh_cn/using/comp)
+
+## 日期、时间格式
+
+如果你希望设置时间和日期的格式，修改配置文件的 `dateFormat` `timeFormat` 来实现。
+
+格式规则：见 `date --help`
