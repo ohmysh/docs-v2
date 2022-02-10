@@ -56,3 +56,13 @@ To add environment path, dis-comment this and add something in it.
 ```bash
 configPathEnv='Path1:Path2:Path3:...'
 ```
+
+## Bash-completion
+
+See in [Bash-Completion](/using/comp).
+
+## Date & Time Format
+
+If you want to set date or time format, edit `dateFormat` and `timeFormat` in the config file.
+
+About rules see in `date --help`.
