@@ -44,7 +44,7 @@ Then, restart the computer and enjoy zsh!
 
 > We will solve them quickly.
 
-- Zsh bug, please see in _FAQ -> Zsh_ part.
-- Chinese Internet errors, please see in _FAQ -> Chinese Internet_ part.
-- ~~You may not run plugins by CLI in `0.0.5-build_21`.~~ We fixed it, and to solve it, you can download December Updates.
-- You may not delete or restore **just one** file by `trash` in oms build version `< 36`, <!-- you can download February Updates. -->
+- 01 Zsh bug, please see in _FAQ -> Zsh_ part.
+- 02 Chinese Internet errors, please see in _FAQ -> Chinese Internet_ part.
+- 03 ~~You may not run plugins by CLI in `0.0.5-build_21`.~~ We fixed it, and to solve it, you can download December Updates.
+- 04 You may not delete or restore **just one** file by `trash` in oms build version `< 36`, <!-- you can download February Updates. -->
