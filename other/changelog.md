@@ -2,6 +2,21 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
 
+## February 2022 Functional & Cumulative Updates
+
+> Coming soon...
+
+- Added the new feature `completion`
+- Added the new feature `time/date format`
+- Added the new feature `OhMySh Reload`
+- Fixed `Installer`
+- Fixed `Updater`
+- Fixed feature `theme`
+- Fixed feature `trash`
+- Included CLI updates:
+  - Added new shortcut `-r|--reload`
+  - Fix cumulative bugs
+
 ## January 2022 Functional Updates: `0.0.5-build_30.220129`
 
 > Updated on January 29, 2022
