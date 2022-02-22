@@ -1,10 +1,10 @@
 # Change Log
 
-> From OhMySh version 0.0.4 on, we puts our change log (commit log) on here.
+> From OhMySh version 0.0.4 on, we puts our change log on here.
 
-## February 2022 Functional & Cumulative Updates
+## February 2022 Functional & Cumulative Updates: `0.0.6-build_40.220222`
 
-> Coming soon...
+> Updated on February 22, 2022.
 
 - Added the new feature `completion`
 - Added the new feature `time/date format`
