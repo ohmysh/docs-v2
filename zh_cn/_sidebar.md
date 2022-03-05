@@ -9,7 +9,7 @@
   - [封面](/zh_cn/using/cover)
   - [命令行工具](/zh_cn/using/cli)
   - [垃圾管理](/zh_cn/using/trash)
-  - [自动补全 （测试中）](/zh_cn/using/comp)
+  - [自动补全](/zh_cn/using/comp)
 - 高级用法
   - [缓存目录](/zh_cn/using/cache)
   - [高级配置](/zh_cn/using/advconfig)
