@@ -9,7 +9,7 @@
   - [Covers](/using/cover)
   - [Command Line Interface](/using/cli)
   - [Trash Manager](/using/trash)
-  - [Bash Completion (Testing...)](/using/comp)
+  - [Bash Completion](/using/comp)
 - Advanced Usage
   - [Cache Directory](/using/cache)
   - [Advanced Configuation](/using/advconfig)
