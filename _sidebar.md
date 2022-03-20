@@ -13,6 +13,7 @@
 - Advanced Usage
   - [Cache Directory](/using/cache)
   - [Advanced Configuation](/using/advconfig)
+  - [Development Channel](/using/dev)
 - [FAQ](/other/faq.md)
 - [Change Log](/other/changelog)
 - [Uninstalling](/other/uninstall)
