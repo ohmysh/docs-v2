@@ -2,6 +2,24 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log on here.
 
+## March 2022 Experience Updates
+
+<!--
+
+> Updated on March 28, 2022.
+
+-->
+
+> Coming soon...
+
+- Added development channel switcher.
+- Updated `Updater`.
+- Updated `Installer`.
+- Updated Configuration-path format.
+- Included CLI updates:
+  - Updated `-v` display.
+  - Updated `-r|--reload` format.
+
 ## February 2022 Functional & Cumulative Updates: `0.0.6-build_40.220222`
 
 > Updated on February 22, 2022.
