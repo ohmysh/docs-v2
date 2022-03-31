@@ -4,13 +4,7 @@
 
 ## March 2022 Experience Updates
 
-<!--
-
-> Updated on March 28, 2022.
-
--->
-
-> Coming soon...
+> Updated on March 31, 2022.
 
 - Added development channel switcher.
 - Updated `Updater`.
