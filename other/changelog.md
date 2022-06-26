@@ -2,6 +2,10 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log on here.
 
+## July 2022 Updates
+
+We came back!
+
 ## March 2022 Experience Updates
 
 > Updated on March 31, 2022.
