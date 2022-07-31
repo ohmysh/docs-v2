@@ -58,3 +58,7 @@ YYYY/MM/DD
 ## `config.ohmysh.sh` 文件
 
 详见[高级配置 (Advanced Configuration)](/zh_cn/using/advconfig).
+
+## `title.ohmysh.sh` 文件
+
+保存个人标题栏内容。
