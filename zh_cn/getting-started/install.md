@@ -12,6 +12,11 @@ OhMySh 基于 [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_she
 
 所以确保你已经安装了 `sh (>=4.x.x)` 和 `bash (>=4.x.x)` 。还有些其他依赖: `curl` `git` .
 
+> ### 对于 MacOS 用户
+> 如果你正在使用 macOS，你需要从 homebrew 或 apt 安装最新版的 bash。
+> 1. `brew install bash`
+> 2. `echo 'alias bash="/opt/homebrew/Cellar/bash/版本号/bin/bash"' >> ~/.zshrc`
+
 ## 安装
 
 在命令行中运行以下命令来快速安装（这条命令可能不使用于中国，中国网络请使用下面的命令）
