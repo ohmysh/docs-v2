@@ -58,3 +58,7 @@ See in [Covers](/using/cover).
 ## `config.ohmysh.sh` File
 
 See in [Advanced Configuration](/using/advconfig).
+
+## `title.ohmysh.sh` File
+
+Caught the title information (language: shell).
