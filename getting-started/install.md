@@ -12,6 +12,11 @@ OhMySh works with [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne
 
 So make sure `sh (>=4.x.x)` and `bash (>=4.x.x)` or `zsh (>=5.x.x)` was installed. There are some other dependences: `curl` `git` .
 
+> ### For MacOS Users
+> If you are using macOS, you may need to install latest version of bash from homebrew, apt, ... 
+> 1. `brew install bash`
+> 2. `echo 'alias bash="/opt/homebrew/Cellar/bash/**Version**/bin/bash"' >> ~/.zshrc`
+
 ## Installation
 
 Run the following commands with shell. (Not support Chinese internet)
