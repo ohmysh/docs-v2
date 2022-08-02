@@ -2,9 +2,14 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log on here.
 
-## July 2022 Updates
+## July 2022 Functional & Cumulative Updates
 
-We came back!
+> Updated on July 31, 2022
+
+- Fixed bugs from last stable version
+- Updated installer
+- Added new feature Title
+- Added tips for macOS users
 
 ## March 2022 Experience Updates
 
