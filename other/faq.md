@@ -49,5 +49,6 @@ Then, restart the computer and enjoy zsh!
 - 02 Chinese Internet errors, please see in _FAQ -> Chinese Internet_ part.
 - 03 ~~You may not run plugins by CLI in `0.0.5-build_21`.~~ We fixed it, and to solve it, you can download December Updates.
 - 04 ~~You may not delete or restore **just one** file by `trash` in oms build version `< 36`~~, you can download February Updates.
-- 05 You may not switch channel by CLI.
-- 06 `tree` command cannot be used properly, see in https://github.com/ohmysh/ohmysh/issues/21
+- 05 ~~You may not switch channel by CLI.~~ Fixed it in July 2022.
+- 06 ~~`tree` command cannot be used properly, see in https://github.com/ohmysh/ohmysh/issues/21~~, fixed in July 2022
+- 07 Command `date -d` cannot be used in macOS, won't fix it.
