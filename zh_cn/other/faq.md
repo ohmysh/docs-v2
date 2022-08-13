@@ -22,6 +22,7 @@
 - **ERROR 10** : 参数丢失，请检查你的命令是否正确。
 - **ERROR 11** : Bash-Completion 自动补全安装路径配置错误，查看[这里](/zh_cn/using/comp)来更改配置。
 - **ERROR 12** : 你的配置文件可能已经过期了，运行 `bash $OMS_DIR/lib/opt/profile-update.sh` 以解决问题。
+- **ERROR 13** : 未定义的调试名称，通过 `oms --debug list` 来检查
 
 
 
