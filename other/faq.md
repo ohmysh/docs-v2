@@ -20,6 +20,7 @@
 - **ERROR 10** : Some parameters are missing. Please check if the command is correct.
 - **ERROR 11** : Your bash-completion application installed path setting went wrong. Check the path in [here](/using/comp)
 - **ERROR 12** : Your configuration file may be out of date, `bash $OMS_DIR/lib/opt/profile-update.sh` to fix.
+- **ERROR 13** : Debug option not found, check in `oms --debug list`.
 
 
 
