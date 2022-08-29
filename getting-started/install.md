@@ -17,6 +17,8 @@ So make sure `sh (>=4.x.x)` and `bash (>=4.x.x)` or `zsh (>=5.x.x)` was installe
 > 1. `brew install bash`
 > 2. `echo 'alias bash="/opt/homebrew/Cellar/bash/**Version**/bin/bash"' >> ~/.zshrc`
 
+`lolcat` can be used in our program. If you want to use it, select `install` in installation script (or you can install by yourself).
+
 ## Installation
 
 Run the following commands with shell. (Not support Chinese internet)
