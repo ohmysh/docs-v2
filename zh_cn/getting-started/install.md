@@ -17,6 +17,8 @@ OhMySh 基于 [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_she
 > 1. `brew install bash`
 > 2. `echo 'alias bash="/opt/homebrew/Cellar/bash/版本号/bin/bash"' >> ~/.zshrc`
 
+现在我们支持 `lolcat` 了，您可以在安装程序中选择自动安装（或手动安装）。
+
 ## 安装
 
 在命令行中运行以下命令来快速安装（这条命令可能不使用于中国，中国网络请使用下面的命令）
