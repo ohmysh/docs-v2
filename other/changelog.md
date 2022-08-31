@@ -2,6 +2,19 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log on here.
 
+## August 2022 Functional & Experience Update
+
+> Updated on August 31, 2022
+
+- Added a new feature outputting with lolcat.
+- Added a new feature `debug`
+- Updated format of CLI.
+- Updated installer.
+
+Merged ohmysh/ohmysh#27
+
+Thanks to @0x07CB for your contribution.
+
 ## July 2022 Functional & Cumulative Updates
 
 > Updated on July 31, 2022
