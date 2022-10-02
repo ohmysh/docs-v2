@@ -1,6 +1,8 @@
 # 准备使用
 
-如果你没有设定默认shell为 sh 或 bash，那么你需要运行以下命令来更换 shell。
+本文将告诉您如何开始使用 OhMySh。
+
+首先你需要选取一个 shell。
 
 ## Linux MacOS 用户
 
@@ -28,6 +30,8 @@ oms -p enable zsh
 
 然后重启电脑。
 
+<!--
+
 ### 使用 SH
 
 如果你不知道什么是 SH，你最好不要选择更换到 sh。
@@ -39,6 +43,8 @@ chsh -s /bin/sh
 ```
 
 **或者**你不希望更换shell，你也可以启动时运行 `sh --login` 。
+
+-->
 
 ## Windows 用户
 
