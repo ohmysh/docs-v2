@@ -18,15 +18,15 @@ chsh -s /bin/bash
 chsh -s /bin/bash
 ```
 
----
-
-Now, sign out and sign in again to your device.
+Here, sign out and sign in again to your device.
 
 ```bash
 oms --chsh zsh
 chsh -s /usr/bin/zsh
 oms -p enable zsh
 ```
+
+---
 
 Then, reboot your device.
 
