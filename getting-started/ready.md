@@ -1,6 +1,8 @@
 # Getting ready to use
 
-If you didn't change default shell to SH and bash while installing the OMS, you can run this comand and reboot your machine after that:
+This article will tell you **how to start using OhMySh**.
+
+Here, you may need to choose a Shell to use, by default is bash.
 
 ## For Linux and MacOS users
 
@@ -16,7 +18,9 @@ chsh -s /bin/bash
 chsh -s /bin/bash
 ```
 
-Sign out and sign in to your device.
+---
+
+Now, sign out and sign in again to your device.
 
 ```bash
 oms --chsh zsh
@@ -25,6 +29,8 @@ oms -p enable zsh
 ```
 
 Then, reboot your device.
+
+<!--
 
 ### Running with SH
 
@@ -37,6 +43,8 @@ chsh -s /bin/sh
 ```
 
 **Or** run command `sh --login` or `bash` if you want to use it.
+
+-->
 
 ## For Windows users
 
