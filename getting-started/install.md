@@ -13,8 +13,8 @@ OhMySh works with [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne
 So make sure `sh (>=4.x.x)` and `bash (>=4.x.x)` or `zsh (>=5.x.x)` was installed. There are some other dependences: `curl` `git` .
 
 > ### For MacOS Users
-> If you are using macOS, you may need to install latest version of bash from homebrew, apt, ... 
-> 1. `brew install bash`
+> If you are using macOS, you may need to install latest version of bash from [homebrew](https://brew.sh), apt, etc. [**No homebrew?**](https://brew.sh)
+> 1. `brew install bash` (for brew users)
 > 2. `echo 'alias bash="/opt/homebrew/Cellar/bash/**Version**/bin/bash"' >> ~/.zshrc`
 
 `lolcat` can be used in our program. If you want to use it, select `install` in installation script (or you can install by yourself).
