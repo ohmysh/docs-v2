@@ -23,6 +23,7 @@
 - **ERROR 11** : Bash-Completion 自动补全安装路径配置错误，查看[这里](/zh_cn/using/comp)来更改配置。
 - **ERROR 12** : 你的配置文件可能已经过期了，运行 `bash $OMS_DIR/lib/opt/profile-update.sh` 以解决问题。
 - **ERROR 13** : 未定义的调试名称，通过 `oms --debug list` 来检查
+- **ERROR 14** : 存在一个更新进程正在后台运行。如果确实没有更新进程在运行，您可以通过 `oms -r` 来解决这个问题。
 
 
 
