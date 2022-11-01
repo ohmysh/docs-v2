@@ -21,6 +21,7 @@
 - **ERROR 11** : Your bash-completion application installed path setting went wrong. Check the path in [here](/using/comp)
 - **ERROR 12** : Your configuration file may be out of date, `bash $OMS_DIR/lib/opt/profile-update.sh` to fix.
 - **ERROR 13** : Debug option not found, check in `oms --debug list`.
+- **ERROR 14** : An update is running beside. If you are sure that there is not any update running, please try with `oms -r`.
 
 
 
