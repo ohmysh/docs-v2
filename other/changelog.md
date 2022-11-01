@@ -2,6 +2,18 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log on here.
 
+Now latest version: **OhMySh 0.0.10 LTS** `Oct2022@0.0.10-build_73.20221030`
+
+## Oct 2022 Experience & Cumulative Updates (LTS)
+
+> Updated on October 30, 2022
+
+- Updated lolcat supported.
+- Updated function `title`
+- Improved CLI user experience.
+- Fixed bugs from #29 
+- Updated `OhMySh Updater`
+
 ## August 2022 Functional & Experience Update
 
 > Updated on August 31, 2022
