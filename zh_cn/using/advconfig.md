@@ -66,3 +66,11 @@ configPathEnv='Path1:Path2:Path3:...'
 如果你希望设置时间和日期的格式，修改配置文件的 `dateFormat` `timeFormat` 来实现。
 
 格式规则：见 `date --help`
+
+## 编辑器选择
+
+取消注释并替换 `XXX` 为你想要的编辑器， `editorSelect="XXX"` 。
+
+```bash
+editorSelect='XXX'
+```
