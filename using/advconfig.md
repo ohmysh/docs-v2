@@ -70,3 +70,7 @@ About rules see in `date --help`.
 ## Editor Selection
 
 Uncomment and replace `XXX` to the editor you want to set `editorSelect="XXX"`.
+
+```bash
+editorSelect='XXX'
+```
