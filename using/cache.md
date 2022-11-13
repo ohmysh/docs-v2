@@ -62,3 +62,10 @@ See in [Advanced Configuration](/using/advconfig).
 ## `title.ohmysh.sh` File
 
 Caught the title information (language: shell).
+
+## `update.o` File
+
+Signed the signal of updating. It appears when an update is running.
+
+If it isn't be deleted, please run `oms -r` to fix it.
+
