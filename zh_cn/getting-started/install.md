@@ -15,7 +15,7 @@ OhMySh 基于 [SH shell (Bourne shell)](https://en.wikipedia.org/wiki/Bourne_she
 > ### 对于 MacOS 用户
 > 如果你正在使用 macOS，你需要从 homebrew 或 apt 安装最新版的 bash。
 > 1. `brew install bash`
-> 2. `echo 'alias bash="/opt/homebrew/Cellar/bash/版本号/bin/bash"' >> ~/.zshrc`
+> 2. `echo 'alias bash="/opt/homebrew/bin/bash"' >> ~/.zshrc`
 
 现在我们支持 `lolcat` 了，您可以在安装程序中选择自动安装（或手动安装）。
 
