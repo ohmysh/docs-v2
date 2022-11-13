@@ -66,3 +66,7 @@ See in [Bash-Completion](/using/comp).
 If you want to set date or time format, edit `dateFormat` and `timeFormat` in the config file.
 
 About rules see in `date --help`.
+
+## Editor Selection
+
+Uncomment and replace `XXX` to the editor you want to set `editorSelect="XXX"`.
