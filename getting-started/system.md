@@ -21,3 +21,12 @@
 - **Other Linux Kernel** : Bash/Zsh
 
 You can run OhMySH in these systems and these shells.
+
+# Application Requirement
+
+| Application | Where Required | Note |
+| :---- | :---- | :---- |
+| `bash` or `zsh` ... | An shell | |
+| `curl` | Only downloading installation | |
+| `git` | Installing and updating | |
+| `lolcat` | Show something in colorful | *OPTIONAL* |
