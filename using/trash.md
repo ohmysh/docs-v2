@@ -67,9 +67,9 @@ Do you need to delete trashes automatically? OhMySh can do this!
 To enable this, run `oms -e` (vi) or `oms -e EDITOR` to open config file and input the following stuff into it.
 
 ```bash
-export trashService='Enable'
-export trashAutoDeleteService='Enable'
-export trashAutoDeleteConfigDate='30'
+trashService='Enable'
+trashAutoDeleteService='Enable'
+trashAutoDeleteConfigDate='30'
 ```
 
 - `trashAutoDeleteService` : Enable/Disable Auto Deleting Service.
