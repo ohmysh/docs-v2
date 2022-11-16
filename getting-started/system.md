@@ -29,4 +29,5 @@ You can run OhMySH in these systems and these shells.
 | `bash` or `zsh` ... | An shell | |
 | `curl` | Only downloading installation | |
 | `git` | Installing and updating | |
+| `coreutils` | [Replacing `date`](https://ohmysh.github.io/docs-v2/#/other/faq?id=date-d-bugs) | **Must be installed on macOS** |
 | `lolcat` | Show something in colorful | *OPTIONAL* |
