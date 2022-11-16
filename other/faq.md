@@ -63,4 +63,4 @@ On macOS, `date -d` command cannot work properly. We found `gdate` from GNU base
 - 04 ~~You may not delete or restore **just one** file by `trash` in oms build version `< 36`~~, you can download February Updates.
 - 05 ~~You may not switch channel by CLI.~~ Fixed it in July 2022.
 - 06 ~~`tree` command cannot be used properly, see in https://github.com/ohmysh/ohmysh/issues/21~~, fixed in July 2022
-- 07 Command `date -d` cannot be used in macOS, 
+- 07 Command `date -d` cannot be used in macOS, see in _FAQ -> `date -d` bugs_.
