@@ -22,6 +22,7 @@
 - **ERROR 12** : Your configuration file may be out of date, `bash $OMS_DIR/lib/opt/profile-update.sh` to fix.
 - **ERROR 13** : Debug option not found, check in `oms --debug list`.
 - **ERROR 14** : An update is running beside. If you are sure that there is not any update running, please try with `oms -r`.
+- **ERROR 15** : `gdate` cannot be found. If you are using macOS, please install `gdate` to replace `date`.
 
 
 
@@ -43,6 +44,15 @@ oms -p enable zsh
 
 Then, restart the computer and enjoy zsh!
 
+## `date -d` bugs.
+
+On macOS, `date -d` command cannot work properly. We found `gdate` from GNU based on [`coreutils`](https://www.gnu.org/software/coreutils/).
+
+**Way to fix:** (`build >= 75`)
+
+1. Install `coreutils` (`brew install coreutils` on macOS)
+2. Test `gdate`: typing `gdate -d 2022.01.01 +%x`. Check if it working properly.
+
 ## Known Issues
 
 > We will solve them quickly.
@@ -53,4 +63,4 @@ Then, restart the computer and enjoy zsh!
 - 04 ~~You may not delete or restore **just one** file by `trash` in oms build version `< 36`~~, you can download February Updates.
 - 05 ~~You may not switch channel by CLI.~~ Fixed it in July 2022.
 - 06 ~~`tree` command cannot be used properly, see in https://github.com/ohmysh/ohmysh/issues/21~~, fixed in July 2022
-- 07 Command `date -d` cannot be used in macOS, won't fix it.
+- 07 Command `date -d` cannot be used in macOS, 
