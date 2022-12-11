@@ -7,6 +7,7 @@
   - [Plugins](/using/plugin)
   - [Aliases](/using/alias)
   - [Covers](/using/cover)
+  - [[*Coming Soon*] Directory Recording](/using/bcd)
   - [Command Line Interface](/using/cli)
   - [Trash Manager](/using/trash)
   - [Bash Completion](/using/comp)
