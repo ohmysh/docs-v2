@@ -2,9 +2,18 @@
 
 > From OhMySh version 0.0.4 on, we puts our change log on here.
 
-Now latest version: **OhMySh 0.0.10 LTS** `Oct2022@0.0.10-build_73.20221030`
+Now latest version: **OhMySh 0.0.10** `Oct2022@0.0.10-build_73.20221030`
 
-## Oct 2022 Experience & Cumulative Updates (LTS)
+## Dec 2022 Updates
+
+> Coming soon...
+
+- Added function editor selection.
+- Added function directory recording.
+- Fixed function trash.
+- Removed function debuger.
+
+## Oct 2022 Experience & Cumulative Updates
 
 > Updated on October 30, 2022
 
