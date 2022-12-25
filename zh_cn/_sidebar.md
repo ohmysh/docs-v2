@@ -7,7 +7,7 @@
   - [插件](/zh_cn/using/plugin)
   - [快捷方式](/zh_cn/using/alias)
   - [封面](/zh_cn/using/cover)
-  - [【*测试中*】目录记录](/zh_cn/using/bcd)
+  - [目录记录](/zh_cn/using/bcd)
   - [命令行工具](/zh_cn/using/cli)
   - [垃圾管理](/zh_cn/using/trash)
   - [自动补全](/zh_cn/using/comp)
