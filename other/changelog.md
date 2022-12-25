@@ -6,11 +6,12 @@ Now latest version: **OhMySh 0.0.10** `Oct2022@0.0.10-build_73.20221030`
 
 ## Dec 2022 Updates
 
-> Coming soon...
+> Updated on December 25, 2022
 
 - Added function editor selection.
 - Added function directory recording.
 - Fixed function trash.
+- **Fixed prompt output error.**
 - Removed function debuger.
 
 ## Oct 2022 Experience & Cumulative Updates
