@@ -9,13 +9,18 @@ jobs:
 
     steps:
     - uses: actions/checkout@v3
+    
+    - run: |
+        mkdir ../qwq
+        cp -r ./* ../qwq
+        mv ../qwq .
 
     - name: Pushes to another repository
       uses: cpina/github-action-push-to-another-repository@main
       env:
         SSH_DEPLOY_KEY: ${{ secrets.SSH_DEPLOY_KEY }}
       with:
-        source-directory: '.'
+        source-directory: './qwq'
         destination-github-username: 'langonginc'
         destination-repository-name: 'oms-docs-v2'
         user-email: langonginc@yeah.net
