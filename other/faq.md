@@ -64,3 +64,4 @@ On macOS, `date -d` command cannot work properly. We found `gdate` from GNU base
 - 05 ~~You may not switch channel by CLI.~~ Fixed it in July 2022.
 - 06 ~~`tree` command cannot be used properly, see in https://github.com/ohmysh/ohmysh/issues/21~~, fixed in July 2022
 - 07 Command `date -d` cannot be used in macOS, see in _FAQ -> `date -d` bugs_.
+- 08 "Open in terminal" may not function properly.
