@@ -1,6 +1,6 @@
 - 地区
   - [世界](https://ohmysh.github.io/docs-v2)
-  - [中国](https://ohmysh.gitee.io/docs-v2)
+  - [Vercel(中国网络可用)](https://docs-v2-liard.vercel.app/docs-v2)
 - 翻译 Translations :cn:
   - [:us: English](/)
   - [:cn: 中文](/zh_cn/)
