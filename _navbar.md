@@ -1,6 +1,6 @@
 - Location
-  - [GitHub Origin](https://ohmysh.github.io/docs-v2)
-  - [Vercel](https://docs-v2-liard.vercel.app/docs-v2)
+  - [GitHub (Origin)](https://ohmysh.github.io/docs-v2)
+  - [Vercel (Backup)](https://docs-v2-liard.vercel.app/docs-v2)
 - Translations :us:
   - [:us: English](/)
   - [:cn: 中文](/zh_cn/)
