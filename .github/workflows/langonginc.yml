@@ -11,9 +11,9 @@ jobs:
     - uses: actions/checkout@v3
     
     - run: |
-        mkdir ../qwq
-        cp -r ./* ../qwq
-        mv ../qwq .
+        mkdir -p ../qwq/docs-v2
+        cp -r ./* ../qwq/docs-v2
+        mv ../qwq ./
 
     - name: Pushes to another repository
       uses: cpina/github-action-push-to-another-repository@main
