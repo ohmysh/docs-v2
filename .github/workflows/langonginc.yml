@@ -14,6 +14,7 @@ jobs:
         mkdir -p ../qwq/docs-v2
         cp -r ./* ../qwq/docs-v2
         mv ../qwq ./
+        echo "<script> window.location.href='https://ohmysh.github.io/docs-v2'; </script>" > ./qwq/index.html
 
     - name: Pushes to another repository
       uses: cpina/github-action-push-to-another-repository@main
