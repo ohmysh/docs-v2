@@ -83,6 +83,16 @@ oms -p enable zsh
 
 重启计算机后即可享用！
 
+## `date -d` 问题
+
+在 macOS 系统上 `date -d` 命令无法正常工作，我们目前使用由 GNU 开发的包含于[`coreutils`](https://www.gnu.org/software/coreutils/)
+的 `gdate` 软件。
+
+**解决方法:** (`build >= 75`)
+
+1. 安装 `coreutils` (macOS 示例 `brew install coreutils`)
+2. 测试 `gdate`: 输入 `gdate -d 2022.01.01 +%x` ，检查是否能正常工作。
+
 ## 已知问题
 
 > 我们将尽快修复
